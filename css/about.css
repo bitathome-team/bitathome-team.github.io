@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+.font_style_1{
+	color:#090;
+	font-size:28px;
+	position:relative;
+	float:left;
+}
+.content_part{
+	width:900px;
+	height:auto;
+	float:left;
+	position:relative;
+	padding: 0 10px 10px 25px;
+	margin-bottom:30px;
+}
+.font_style_2{
+	color:#000;
+	font-size:17px;
+	font-family:"Comic Sans MS", cursive;
+}
